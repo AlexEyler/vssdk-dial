@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialExtension", "src\DialExtension.csproj", "{A96747D6-C4C6-4472-987E-65739FD6A50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96747D6-C4C6-4472-987E-65739FD6A50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96747D6-C4C6-4472-987E-65739FD6A50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96747D6-C4C6-4472-987E-65739FD6A50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96747D6-C4C6-4472-987E-65739FD6A50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
