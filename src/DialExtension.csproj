@@ -45,12 +45,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Constants.cs" />
     <Compile Include="IVsSurfaceDialManager.cs" />
     <Compile Include="IVsSurfaceDialMenuOption.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RadialControllerInterop.cs" />
-    <Compile Include="SelectionMenuItem.cs" />
+    <Compile Include="MenuItems\SelectionMenuItem.cs" />
     <Compile Include="SurfaceDialManager.cs" />
     <Compile Include="TextViewListener.cs" />
   </ItemGroup>
